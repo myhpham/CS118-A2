@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.widget.LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/dlImagesButton"
+        android:layout_width="140dp"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="40dp"
+        android:text="@string/dlImagesButtonText" />
+
+    <Button
+        android:id="@+id/viewImagesButton"
+        android:layout_width="140dp"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="40dp"
+        android:text="@string/viewImagesButtonText" />
+
+    <Button
+        android:id="@+id/searchImagesButton"
+        android:layout_width="140dp"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="40dp"
+        android:text="@string/searcImagesButtonText" />
+</android.widget.LinearLayout>

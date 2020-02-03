@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Assignment 2</string>
+
+    <string name="dlImagesButtonText">Download Images</string>
+    <string name="viewImagesButtonText">View Images</string>
+    <string name="searcImagesButtonText">Search Images</string>
+
+    <string name="downloadButtonText">Download Image</string>
+    <string name="imgURLHint">Image URL</string>
+    <string name="imgTitleHint">Image Title</string>
+    <string name="image_imageView">IMAGE</string>
+    <string name="image_id_string">image_id</string>
+    <string name="search_hint_string">Search</string>
+    <string name="image_name_string">Image Name</string>
+    <string name="delete_icon_description">delete</string>
+</resources>
